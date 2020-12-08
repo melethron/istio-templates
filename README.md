@@ -1,0 +1,2 @@
+# istio-templates
+Some templates
